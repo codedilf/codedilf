@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codedilf
+- 👀 I’m interested in Web and Software Development, Back-End Sytems including Data Analytics, and Machine Learning.
+- 🌱 I’m currently learning Full-Stack Engineering via CodeCademy.
+- 💞️ I’m looking to collaborate on most Web apps, mainly as a debugger as I find myself parsing through most code and finding issues and resolving them with relative speed.
+- 📫 How to reach me: Message me on GitHub.
